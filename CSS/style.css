@@ -1,0 +1,91 @@
+body{background-image: url(https://cdn.fishki.net/upload/post/201512/15/1776843/tn/4_29.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;}
+    h1{text-align: center;
+    color: red;
+    font-size: 50px ;
+    font-family: Trattatello, fantasy;}
+    .lol{width: 50px;height: 50;
+    border-radius: 20px;}
+    .lol1{font-size: 25px;
+    font-weight: 900;color:white;
+    text-decoration: underline red;
+}
+
+    .lol1::before{content: url(https://i.postimg.cc/KcK4B76c/icon-phone.png);
+        margin-right: 10px;
+
+}
+    .lol2{font-size: 25px;
+        font-weight: 900;color:white;
+        text-decoration: underline red;
+}
+
+
+
+    .lol2::before{content: url(https://i.postimg.cc/1XyCh5hJ/icon-mail.png);
+        margin-right: 10px;
+    }
+    .rak{display: block;}
+
+
+.pop2{margin: 0 auto;
+    text-align: center;
+width: 1050px;
+height: 200px;
+display: flex;
+justify-content: space-between;
+border-bottom: 2px solid red 
+}
+Изображение
+Изображение
+.pop2 img{border-radius: 15px;}
+.pop1{margin: 0 auto;
+
+    display: flex;
+    justify-content: space-around;
+;}
+    p{color: white;
+        font-size: 25px;
+    font-weight: 900;
+text-align: center;}
+.dad{width: 650px;
+    line-height: 25px;
+    height: 200px;margin: 0 auto;}
+    h2{text-align: center;
+        color: white;
+        text-decoration: underline red;
+        font-size: 45px;
+        font-weight: 900;
+        }
+        .kartinki{display: flex;
+        justify-content: space-between;
+    text-align: center;}
+    span{color: red;
+    font-size: 50px;
+font-weight: 900;
+text-align: center;}
+button{background-color: red;
+color: white;
+font-weight: 900;
+text-align: center;
+border-radius: 30px;
+padding: 15px;
+font-size: 25px;}
+.img1{border: 3px solid red;
+padding: 15px;width: 400px;}
+.text2{color:beige; text-align: center; 
+font-size: 30px; line-height: 40px;}
+.text3{width: 1500px; margin:0 auto;}
+.text4{text-align: center;}
+.text5{width: 300px; text-align: justify;}
+.text6{width: 300px; text-align: justify;}
+label{color:aliceblue;font-size: 20px;}
+input{padding: 7px; width: 250px;font-size: 20px;} 
+form{margin-bottom: 30px;width: 300px; }
+a{color: aliceblue; background-color:red; padding: 15px;font-weight: 900;}
+section{display: flex;
+justify-content: space-around;}
+
+a{text-decoration: none;margin-top: 30px;display: block;width: 240px;text-align: center;
+}
